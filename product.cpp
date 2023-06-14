@@ -7,5 +7,5 @@ int main()
          << "\n";
     cin >> a >> b >> c;
     prod = a * b * c;
-    cout << "The product is " << prod << "\n";
+    cout << "The product is: " << prod << "\n";
 }
